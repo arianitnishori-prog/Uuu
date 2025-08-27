@@ -3,6 +3,7 @@
        id: '1',
        name: 'Dr. Nebih Meha',
        specialty: 'Mjekësi e Përgjithshme',
+     }
 -      image: 'https://images.pexels.com/photos/559136/pexels-photo-559136.jpeg',
 +      image: 'https://images.pexels.com/photos/559136/pexels-photo-559136.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.4,
@@ -13,6 +14,7 @@
        id: '2',
        name: 'Dr. Arben Krasniqi',
        specialty: 'Mjekësi e Përgjithshme',
+     }
 -      image: 'https://images.pexels.com/photos/582750/pexels-photo-582750.jpeg',
 +      image: 'https://images.pexels.com/photos/582750/pexels-photo-582750.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.7,
@@ -23,6 +25,7 @@
        id: '3',
        name: 'Dr. Fatmir Kavaja',
        specialty: 'Kardiologji',
+     }
 -      image: 'https://images.pexels.com/photos/1181680/pexels-photo-1181680.jpeg',
 +      image: 'https://images.pexels.com/photos/1181680/pexels-photo-1181680.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.2,
@@ -33,6 +36,7 @@
        id: '4',
        name: 'Dr. Agim Përgjithshëm',
        specialty: 'Kirurgji',
+     }
 -      image: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg',
 +      image: 'https://images.pexels.com/photos/5215024/pexels-photo-5215024.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.3,
@@ -43,6 +47,7 @@
        id: '5',
        name: 'Dr. Bahri Specialty',
        specialty: 'Specialitete të Ndryshme',
+     }
 -      image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg',
 +      image: 'https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 4.6,
@@ -53,6 +58,7 @@
        id: '6',
        name: 'Dr. Mehmet Poliklinika',
        specialty: 'Mjekësi e Përgjithshme',
+     }
 -      image: 'https://images.pexels.com/photos/6203459/pexels-photo-6203459.jpeg',
 +      image: 'https://images.pexels.com/photos/6203459/pexels-photo-6203459.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 4.0,
@@ -63,6 +69,7 @@
        id: '7',
        name: 'Dr. John American',
        specialty: 'Mjekësi e Përgjithshme',
+     }
 -      image: 'https://images.pexels.com/photos/612608/pexels-photo-612608.jpeg',
 +      image: 'https://images.pexels.com/photos/612608/pexels-photo-612608.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.5,
@@ -73,6 +80,7 @@
        id: '8',
        name: 'Dr. Vita Spitali',
        specialty: 'Pediatri',
+     }
 -      image: 'https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg',
 +      image: 'https://images.pexels.com/photos/1170979/pexels-photo-1170979.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.6,
@@ -83,6 +91,7 @@
        id: '9',
        name: 'Dr. Linda Spitali',
        specialty: 'Dermatologji',
+     }
 -      image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg',
 +      image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.9,
@@ -93,6 +102,7 @@
        id: '10',
        name: 'Dr. Universiteti Klinik',
        specialty: 'Neurologji',
+     }
 -      image: 'https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg',
 +      image: 'https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.1,
@@ -103,6 +113,7 @@
        id: '11',
        name: 'Dr. United Hospital',
        specialty: 'Mjekësi e Përgjithshme',
+     }
 -      image: 'https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg',
 +      image: 'https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 4.5,
@@ -113,6 +124,7 @@
        id: '12',
        name: 'Dr. Aloka Hospital',
        specialty: 'Ortopedi',
+     }
 -      image: 'https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg',
 +      image: 'https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 3.3,
@@ -123,6 +135,7 @@
        id: '13',
        name: 'Dr. Gyne-Kir Gjinekologji',
        specialty: 'Gjinekologji dhe Kirurgji',
+     }
 -      image: 'https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg',
 +      image: 'https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg?auto=compress&cs=tinysrgb&w=400',
        rating: 5.0,
@@ -132,6 +145,7 @@
        {
          id: '1',
          doctorId: '1',
+       }
 -        doctorName: 'Dr. Sarah Müller',
 -        specialty: 'Allgemeinmedizin',
 +        doctorName: 'Dr. Nebih Meha',
@@ -143,6 +157,7 @@
        {
          id: '2',
          doctorId: '2',
+       }
 -        doctorName: 'Dr. Michael Weber',
 -        specialty: 'Kardiologie',
 +        doctorName: 'Dr. Arben Krasniqi',
